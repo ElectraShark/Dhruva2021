@@ -1,3 +1,7 @@
+html{
+    scroll-behavior: smooth;  /* To make scrolling smooth */
+}
+
 body{
   background-color:powderblue;
   }
