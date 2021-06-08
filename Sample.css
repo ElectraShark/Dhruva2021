@@ -2,6 +2,12 @@ html{
     scroll-behavior: smooth;  /* To make scrolling smooth */
 }
 
+ul.a {
+  list-style-position: outside;    /* To keep bullet point outside text area */
+  text-align: left;
+}
+
+
 body{
   background-color: powderblue;
   }
