@@ -5,7 +5,7 @@ html{
 ul.a {
   list-style-position: outside;    /* To keep bullet point outside text area */
   text-align: left;
-  line-height:180%
+  line-height:160%
 }
 
 
