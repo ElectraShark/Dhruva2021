@@ -8,6 +8,11 @@ ul.a {
   line-height:160%
 }
 
+h1
+{
+font-size: 1.75em;
+font-weight: normal;
+}
 
 body{
   background-color: #e1e5ea;
